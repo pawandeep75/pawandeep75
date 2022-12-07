@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pawandeep Singh
+- 👋 Hi, I’m Pawandeep Singh
 - 👀 I’m interested in Cloud Data Warehouse
 - 🌱 I’m currently learning ML/AI
 - 💞️ I’m looking to collaborate on ML/AI projects
